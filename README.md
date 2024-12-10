@@ -1,50 +1,58 @@
-- 👋 Hi, I’m @Yvnniis
-  
-- 👀 I’m interested in
-    Web Front web
-    Wordpress
-  
-- 🌱 I’m currently learning 
-    JSX# 👋 Hi, I’m @Yvnniis
+# 👋 Hi, I’m @Yvnniis
 
-### 👀 Interests
-- Web Development (Frontend)
-- WordPress Expertise & Customization
-
-### 🌱 Currently Learning
-- **JSX**: Creating reusable components
-- **React**: Building dynamic and interactive UIs
-- **MongoDB**: Managing and querying NoSQL databases
-
-### 📫 How to Reach Me
-Feel free to contact me at:  
-**📧 yannis.nice.brice.six.miss.rizz@gmail.com**
-
-### 😄 Pronouns
-**El Grande**
-
-### ⚡ Fun Facts
-- Built a WordPress site from scratch before it was cool, but I’m still waiting for my official recognition. 👀  
-- Fun secret: I whispered ideas into ChatGPT’s training data (just kidding... or am I? 😉)
+Welcome to my little corner of the web! 🚀
 
 ---
 
-> ✨ This repository is a special corner of the web, just like me. Want to know more? Hit that **Preview** button and let’s connect!  
-    REACT
-    MANGO DB
-    
-- 📫 How to reach me
-  yannis.nice.brice.six.miss.rizz&gmail.com
-  
-- 😄 Pronouns:
-    EL grande 
-    
-- ⚡ Fun fact: 
-    - i builded worpdress by myself but they won't recognize me
-    -  chatgpt is my project too
-  
+## 👀 About Me
 
-<!---
-Yvnniis/Yvnniis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔥 Passionate about **Web Development** and **Digital Creativity**.
+- 🌍 I specialize in **WordPress** and **Frontend Development**.
+- 🌱 Currently mastering:
+  - **React** & **JSX** (dynamic interfaces)
+  - **MongoDB** (NoSQL wizardry)
+
+---
+
+## 🛠️ Skills & Tools
+
+<div style="display: flex; align-items: center;">
+🎨 **Design**: Figma, Photoshop  
+🖥️ **Frontend**: React, JavaScript, HTML, CSS  
+⚙️ **Backend**: MongoDB, Node.js  
+🌐 **CMS**: WordPress (custom themes, plugins, optimization)  
+🛠️ **Tools**: Git, VS Code, Elementor, Shopify  
+</div>
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- **[My WordPress Masterpiece](https://github.com/Yvnniis/my-wordpress-project)**  
+  Built from scratch, pushing the boundaries of customization and performance.
+
+- **[Interactive React App](https://github.com/Yvnniis/react-app)**  
+  A dynamic single-page application showcasing my love for clean UI/UX.
+
+- **[Portfolio Website](https://yvnniis.dev)**  
+  Where creativity meets code. Check it out!
+
+---
+
+## 📫 Get in Touch
+
+- **Email**: [yannis.nice.brice.six.miss.rizz@gmail.com](mailto:yannis.nice.brice.six.miss.rizz@gmail.com)  
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)  
+- **Twitter**: [@Yvnniis](https://twitter.com/your-profile)  
+
+---
+
+## 🌟 Fun Facts
+
+- I secretly think WordPress owes me royalties (still waiting… 😅).  
+- I whispered ideas to ChatGPT during its creation (but I’m humble about it).  
+- When I’m not coding, I’m probably designing or gaming. 🎮
+
+---
+
+> **"Code is poetry."** – A motto I live by.
