@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yvnniis
+  
 - 👀 I’m interested in
     Web Front web
     Wordpress
+  
 - 🌱 I’m currently learning 
     JSX
     REACT
