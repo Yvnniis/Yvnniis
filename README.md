@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Yvnniis
-[version fr](fr.md)
+[version en](fr.md)
 Welcome to my little corner of the web! 🚀
 
 ---
