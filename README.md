@@ -16,13 +16,7 @@ Welcome to my little corner of the web! 🚀
 
 ## 🛠️ Skills & Tools
 
-<div style="display: flex; align-items: center;">
-🎨 **Design**: Figma, Photoshop  
-🖥️ **Frontend**: React, JavaScript, HTML, CSS  
-⚙️ **Backend**: MongoDB, Node.js  
-🌐 **CMS**: WordPress (custom themes, plugins, optimization)  
-🛠️ **Tools**: Git, VS Code, Elementor, Shopify  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,next,php,react,node)](https://skillicons.dev)
 
 ---
 
