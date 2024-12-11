@@ -1,31 +1,52 @@
-👋 Salut, je suis @Yvnniis
+# 👋 Hi, I’m @Yvnniis
+[version en](fr.md)
+Welcome to my little corner of the web! 🚀
 
-version en
-Bienvenue dans mon petit coin du web ! 🚀
+---
 
-👀 À propos de moi
-	•	🔥 Passionné par le développement web et la créativité digitale.
-	•	🌍 Spécialisé en WordPress et en développement front-end.
-	•	🌱 Actuellement en train de maîtriser :
-	•	React & JSX (interfaces dynamiques)
-	•	MongoDB (la magie du NoSQL)
+## 👀 About Me
 
-🛠️ Compétences & Outils
+- 🔥 Passionate about **Web Development** and **Digital Creativity**.
+- 🌍 I specialize in **WordPress** and **Frontend Development**.
+- 🌱 Currently mastering:
+  - **React** & **JSX** (dynamic interfaces)
+  - **MongoDB** (NoSQL wizardry)
 
-🚀 Projets dont je suis fier
-	•	Mon Chef-d’œuvre WordPress
-Créé de A à Z, poussant les limites de la personnalisation et des performances.
-	•	Application React Interactive
-Une application single-page dynamique mettant en valeur mon amour pour les interfaces UI/UX propres.
-	•	Site Web Portfolio
-Là où la créativité rencontre le code. Jetez-y un œil !
+---
 
-📫 Me contacter
-	•	Email : yannis.nice.brice.six.miss.rizz@gmail.com
-	•	LinkedIn : Connectez-vous avec moi
-	•	Twitter : @Yvnniis
+## 🛠️ Skills & Tools
 
-🌟 Faits amusants
-	•	Je pense secrètement que WordPress me doit des royalties (j’attends toujours… 😅).
-	•	J’ai chuchoté des idées à ChatGPT pendant sa création (mais je reste modeste à ce sujet).
-	•	Quand je ne code pas, je suis probablement en train de concevoir ou de jouer. 🎮
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,next,php,react,node)](https://skillicons.dev)
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- **[My WordPress Masterpiece](https://github.com/Yvnniis/my-wordpress-project)**  
+  Built from scratch, pushing the boundaries of customization and performance.
+
+- **[Interactive React App](https://github.com/Yvnniis/react-app)**  
+  A dynamic single-page application showcasing my love for clean UI/UX.
+
+- **[Portfolio Website](https://yvnniis.dev)**  
+  Where creativity meets code. Check it out!
+
+---
+
+## 📫 Get in Touch
+
+- **Email**: [yannis.nice.brice.six.miss.rizz@gmail.com](mailto:yannis.nice.brice.six.miss.rizz@gmail.com)  
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)  
+- **Twitter**: [@Yvnniis](https://twitter.com/your-profile)  
+
+---
+
+## 🌟 Fun Facts
+
+- I secretly think WordPress owes me royalties (still waiting… 😅).  
+- I whispered ideas to ChatGPT during its creation (but I’m humble about it).  
+- When I’m not coding, I’m probably designing or gaming. 🎮
+
+---
+
+> **"Code is poetry."** – A motto I live by.
